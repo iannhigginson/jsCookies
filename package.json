@@ -1,0 +1,19 @@
+{
+ "name": "jscookies",
+ "version": "1.0.0",
+ "description": "Cookies with SameSite attribute",
+ "main": "cookie.js",
+ "scripts": {
+  "test": "run.bat"
+ },
+ "repository": {
+  "type": "git",
+  "url": "https://"
+ },
+ "keywords": [
+  "cookie",
+  "samesite"
+ ],
+ "author": "Ian Neal Higginson",
+ "license": "MIT"
+}
